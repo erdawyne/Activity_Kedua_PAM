@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity Kedua</string>
+    <string name="usr">Username</string>
+    <string name="pwd">Password</string>
+    <string name="okButton">SIGN-IN</string>
+</resources>
